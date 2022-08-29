@@ -1,2 +1,0 @@
-import adx
-adx.adxlmand()
