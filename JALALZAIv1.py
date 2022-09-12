@@ -1,4 +1,4 @@
-²
+
 # decrypt by HEMAT KHAN
 # Decompiled from: Python 2.7.18 (default, Nov  12   2021, 23:31:00) 
 # [GCC 4.2.1 Compatible Android (6454773 based on r365631c2) Clang 9.0.8 (https:/
